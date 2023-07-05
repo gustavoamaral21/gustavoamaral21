@@ -13,7 +13,7 @@
 
 - 📃.Contact [gustavoamaralgui@gmail.com](gustavoamaralgui@gmail.com)
 
-- 📄.My LinkedIn with my resume [https://www.linkedin.com/in/gustavoamaral2020/](www.linkedin.comhttps://www.linkedin.com/in/gustavoamaral2020/)
+- 📄.My LinkedIn with my resume [https://www.linkedin.com/in/gustavoamaral2020/](https://www.linkedin.com/in/gustavoamaral2020/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
