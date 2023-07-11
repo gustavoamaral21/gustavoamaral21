@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'M GUSTAVO AMARAL GUIMARÃES</h1>
 <h3 align="center">A web developer passionate about knowledge. Currently working with database analysis.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavoamaral21&label=Profile%20views&color=0e75b6&style=flat" alt="gustavoamaral21" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavoamaral21&label=Visualizações%20&color=0e75b6&style=flat" alt="gustavoamaral21" /> </p>
 
 - 👨‍💻.I work with Database Analysis. [Tork Company](https://torkcompany.com.br/home/index.php)
 
