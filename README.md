@@ -2,7 +2,9 @@
 <h3 align="center">Atualmente trabalhando como Analista de banco de dados.</h3>
 
 <p align="center">
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoamaral21&layout=compact&theme=onedark)](https://github.com/gustavoamaral21/github-readme-stats)
+
 </p>
 
 <h1 align='center'>Redes Sociais<h1>
