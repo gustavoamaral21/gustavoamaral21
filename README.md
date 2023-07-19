@@ -3,7 +3,7 @@
 
 <div align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoamaral21&layout=compact&theme=onedark&custom_title=Linguagens)](https://github.com/gustavoamaral21/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoamaral21&layout=compact&theme=onedark&custom_title=Linguagens_utilizadas)](https://github.com/gustavoamaral21/github-readme-stats)
 
 </div>
 
