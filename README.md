@@ -1,7 +1,8 @@
 <h1 align="center">Olá 👋, me chamo Gustavo Amaral Guimarães</h1>
 <h3 align="center">Atualmente trabalhando como Analista de banco de dados.</h3>
 
-![GitHub status](https://github-readme-stats.vercel.app/api?username=gustavoamaral21&show_icons=true&theme=onedark)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=gustavoamaral21&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/gustavoamaral21/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=gustavoamaral21&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/gustavoamaral21/github-readme-stats#gh-light-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoamaral21&layout=compact&theme=onedark)](https://github.com/gustavoamaral21/github-readme-stats)
 
 <h1 align='center'>Redes Sociais<h1>
