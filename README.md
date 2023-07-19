@@ -24,8 +24,9 @@
 </div>
 
 <h3 align="center">Linguagens e Ferramentas</h3>
-
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30px"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30px"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30px">
+<div align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30px"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30px"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30px">
+</div>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gustavoamaral21&label=Visualizações%20&color=0e75b6&style=flat" alt="gustavoamaral21" /> </p>
