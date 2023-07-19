@@ -16,6 +16,10 @@
   <img src="https://img.shields.io/badge/-twitch-6441a5?style=for-the-badge&labelColor=6441a5&logo=discord&logoColor=white&link=https://www.twitch.tv/guhamarall">
 </a>
 </div>
+<a href="https://www.linkedin.com/in/gustavoamaral2020/" alt="Linkedin" target="_blank">
+  <img src="https://img.shields.io/badge/-linkedin-0e76a8?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white&link=https://www.twitch.tv/guhamarall">
+</a>
+</div>
 
 <h3 align="left">Linguagens e Ferramentas</h3>
 
