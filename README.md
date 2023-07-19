@@ -2,7 +2,7 @@
 <h3 align="center">A web developer passionate about knowledge. Currently working with database analysis.</h3>
 
 <h1 align='center'>Redes Sociais<h1>
-<div align="left">
+<div align="center">
 <a href="https://www.instagram.com/gustavo.amaral19" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/gustavo.amaral19">
 </a>
@@ -15,7 +15,7 @@
 <a href="https://www.twitch.tv/guhamarall" alt="Twitch" target="_blank">
   <img src="https://img.shields.io/badge/-twitch-6441a5?style=for-the-badge&labelColor=6441a5&logo=discord&logoColor=white&link=https://www.twitch.tv/guhamarall">
 </a>
-</div><a href="https://www.linkedin.com/in/gustavoamaral2020/" alt="Linkedin" target="_blank">
+<a href="https://www.linkedin.com/in/gustavoamaral2020/" alt="Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/-linkedin-0e76a8?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white&link=https://www.twitch.tv/guhamarall">
 </a>
 </div>
