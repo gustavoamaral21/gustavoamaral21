@@ -19,7 +19,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<img src=" https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50px">
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gustavoamaral21&label=Visualizações%20&color=0e75b6&style=flat" alt="gustavoamaral21" /> </p>
