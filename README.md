@@ -9,7 +9,7 @@
 <a href="https://www.facebook.com/guh.design12" alt="Facebook" target="_blank">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/guh.design12">
 </a>
-<a href="discordapp.com/users/spectrewin" alt="Discord" target="_blank">
+<a href="https://discord.com/invite/spectrewin" alt="Discord" target="_blank">
   <img src="https://img.shields.io/badge/-Discord-7289da?style=for-the-badge&labelColor=7289da&logo=discord&logoColor=white&link=https://discord.com/invite/spectrewin">
 </a>
 <a href="https://www.twitch.tv/guhamarall" alt="Twitch" target="_blank">
