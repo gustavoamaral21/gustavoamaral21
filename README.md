@@ -28,7 +28,7 @@
 
 <h3 align="center">Linguagens e Ferramentas</h3>
 <div align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30px"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30px"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30px"><img src="https://camo.githubusercontent.com/865b06a76c7a9ee447e09aff240ab5035bf68683994189c310b35f13790878f8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d706c61696e2d776f72646d61726b2e737667" width="30px"><img src="https://www.postgresql.org/" width="30px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30px"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30px"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30px"><img src="https://camo.githubusercontent.com/865b06a76c7a9ee447e09aff240ab5035bf68683994189c310b35f13790878f8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d706c61696e2d776f72646d61726b2e737667" width="30px">
 </div>
 
 
