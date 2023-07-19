@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'M GUSTAVO AMARAL GUIMARÃES</h1>
 <h3 align="center">A web developer passionate about knowledge. Currently working with database analysis.</h3>
 
-![Status de perfil](https://github-readme-stats.vercel.app/api?username=gustavoamaral21&show_icons=true&theme=radical&?theme=dark?title_color=blue)
+![Status de perfil](https://github-readme-stats.vercel.app/api?username=gustavoamaral21&show_icons=true&theme=radical&?theme=dark?title_blue)
 
 
 <div align="center">
