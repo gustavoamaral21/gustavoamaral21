@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'M GUSTAVO AMARAL GUIMARÃES</h1>
 <h3 align="center">A web developer passionate about knowledge. Currently working with database analysis.</h3>
 
+![](https://raw.githubusercontent.com/gustavoamaral21/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/gustavoamaral21/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 <h1 align='center'>Redes Sociais<h1>
 <div align="center">
