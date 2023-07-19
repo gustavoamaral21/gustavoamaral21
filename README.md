@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'M GUSTAVO AMARAL GUIMARÃES</h1>
-<h3 align="center">A web developer passionate about knowledge. Currently working with database analysis.</h3>
+<h1 align="center">Olá 👋, me chamo GUSTAVO AMARAL GUIMARÃES</h1>
+<h3 align="center">Atualmente trabalhando com análise de banco de dados.</h3>
 
 <h1 align='center'>Redes Sociais<h1>
 <div align="center">
