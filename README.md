@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, me chamo GUSTAVO AMARAL GUIMARÃES</h1>
-<h3 align="center">Atualmente trabalhando com análise de banco de dados.</h3>
+<h1 align="center">Olá 👋, me chamo Gustavo Amaral Guimarães</h1>
+<h3 align="center">Atualmente trabalhando como Analista de banco de dados.</h3>
 
 <h1 align='center'>Redes Sociais<h1>
 <div align="center">
