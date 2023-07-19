@@ -17,6 +17,8 @@
 
 <a href="https://www.instagram.com/gustavo.amaral19" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/gustavo.amaral19">
+</a><a href="https://www.facebook.com/guh.design12" alt="Facebook" target="_blank">
+  <img src="https://img.shields.io/badge/-Facebook-DF0174?style=for-the-badge&labelColor=DF0174&logo=facebook&logoColor=white&link=https://www.facebook.com/guh.design12">
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
