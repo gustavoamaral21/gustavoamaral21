@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'M GUSTAVO AMARAL GUIMARÃES</h1>
 <h3 align="center">A web developer passionate about knowledge. Currently working with database analysis.</h3>
 
-<div align="center">
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoamaral21&show_icons=true&theme=radical&?theme=dark)
-</div>
+<q align="center">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoamaral21&show_icons=true&theme=radical&?theme=dark)
+</q>
 
 <div align="center">
 <a href="https://www.instagram.com/gustavo.amaral19" alt="Instagram" target="_blank">
