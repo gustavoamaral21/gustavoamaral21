@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'M GUSTAVO AMARAL GUIMARÃES</h1>
 <h3 align="center">A web developer passionate about knowledge. Currently working with database analysis.</h3>
 
-![Status de perfil](https://github-readme-stats.vercel.app/api?username=gustavoamaral21&show_icons=true&theme=radical&?theme=dark&?title_color=blue)
 
-
+<h1 align='center'>Redes Sociais<h1>
 <div align="center">
 <a href="https://www.instagram.com/gustavo.amaral19" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/gustavo.amaral19">
