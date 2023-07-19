@@ -1,7 +1,9 @@
 <h1 align="center">Olá 👋, me chamo Gustavo Amaral Guimarães</h1>
 <h3 align="center">Atualmente trabalhando como Analista de banco de dados.</h3>
 
+<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoamaral21&layout=compact&theme=onedark)](https://github.com/gustavoamaral21/github-readme-stats)
+</div>
 
 <h1 align='center'>Redes Sociais<h1>
 <div align="center">
