@@ -1,37 +1,65 @@
-<h1 align="center">Olá 👋, me chamo Gustavo Amaral Guimarães</h1>
-<h3 align="center">Atualmente trabalhando como Analista de banco de dados.</h3>
+<h2 align="left">Olá 👋! Meu nome é Gustavo Amaral e sou Administrador de Banco de Dados na empresa TorkCompany.</h2>
+
+###
 
 <div align="center">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoamaral21&layout=compact&theme=onedark&custom_title=Linguagens)](https://github.com/gustavoamaral21/github-readme-stats)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavoamaral21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="120" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavoamaral21&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="120" alt="languages graph"  />
 </div>
 
-<h1 align='center'>Redes Sociais<h1>
+###
+
 <div align="center">
-<a href="https://www.instagram.com/gustavo.amaral19" alt="Instagram" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/gustavo.amaral19">
-</a>
-<a href="https://www.facebook.com/guh.design12" alt="Facebook" target="_blank">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/guh.design12">
-</a>
-<a href="discordapp.com/users/spectrewin" alt="Discord" target="_blank">
-  <img src="https://img.shields.io/badge/-Discord-7289da?style=for-the-badge&labelColor=7289da&logo=discord&logoColor=white&link=discordapp.com/users/spectrewin">
-</a>
-<a href="https://www.twitch.tv/guhamarall" alt="Twitch" target="_blank">
-  <img src="https://img.shields.io/badge/-twitch-6441a5?style=for-the-badge&labelColor=6441a5&logo=discord&logoColor=white&link=https://www.twitch.tv/guhamarall">
-</a>
-<a href="https://www.linkedin.com/in/gustavoamaral2020/" alt="Linkedin" target="_blank">
-  <img src="https://img.shields.io/badge/-linkedin-0e76a8?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white&link=https://www.twitch.tv/guhamarall">
-</a>
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="30" alt="wordpress logo"  />
 </div>
 
-<h3 align="center">Linguagens e Ferramentas</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,js,mysql,nginx,nodejs,php,postgres,py,vim,vscode,css" />
+###
+
+<div align="center">
+  <a href="https://www.instagram.com/gustavo.amaral19" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-</p>
+  <a href="https://www.twitch.tv/guhamarall" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  </a>
+  <a href="https://github.com/gustavoamaral21/gustavoamaral21/blob/main/discordapp.com/users/spectrewin" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/gustavoamaral2020/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
+###
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=gustavoamaral21&label=Visualizações%20&color=0e75b6&style=flat" alt="gustavoamaral21" /> </p>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/gustavoamaral21/gustavoamaral21/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/gustavoamaral21/count.svg?"  />
+</div>
+
+###
