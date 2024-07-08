@@ -54,7 +54,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/gustavoamaral21/gustavoamaral21/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/gustavoamaral21/gustavoamaral21/snake.yml" alt="Snake animation" />
 
 ###
 
