@@ -50,14 +50,6 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/gustavoamaral21/gustavoamaral21/snake.yml" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/gustavoamaral21/count.svg?"  />
 </div>
