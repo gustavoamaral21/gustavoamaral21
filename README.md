@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Meu nome é Gustavo Amaral e sou Administrador de Banco de Dados na empresa TorkCompany.</h2>
+<h2 align="left">Olá 👋! Meu nome é Gustavo Amaral.</h2>
 
 ###
 
