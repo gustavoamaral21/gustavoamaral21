@@ -55,21 +55,25 @@ followers = u.get("followers", 0)
 member_since = (u.get("created_at") or "2021")[:4]
 n_langs = len(lang_bytes)
 
-total = sum(lang_bytes.values()) or 1
-top = sorted(lang_bytes.items(), key=lambda x: -x[1])[:6]
+# Distribuição de linguagens CURADA por projeto (estável e representativa —
+# a contagem por bytes do GitHub distorce: infla libs/CSS e não enxerga os
+# microsserviços Go/Python que ficam em repositórios locais/privados).
+CURATED_LANGS = [("PHP", 30), ("TypeScript", 24), ("Python", 18), ("Go", 14),
+                 ("JavaScript", 8), ("SQL", 6)]
 
 COLORS = {
     "PHP": "#4F5D95", "JavaScript": "#f1e05a", "TypeScript": "#3178c6", "Go": "#00ADD8",
     "Python": "#3572A5", "HTML": "#e34c26", "CSS": "#563d7c", "Vue": "#41b883",
     "Blade": "#f7523f", "Shell": "#89e051", "Dockerfile": "#384d54", "SCSS": "#c6538c",
-    "Less": "#1d365d", "Makefile": "#427819", "Hack": "#878787", "Jupyter Notebook": "#DA5B0B",
-    "C#": "#178600", "Java": "#b07219", "Smarty": "#f0c040", "Twig": "#c1d026",
+    "Less": "#1d365d", "Makefile": "#427819", "SQL": "#e38c00", "Java": "#b07219",
+    "C#": "#178600", "Jupyter Notebook": "#DA5B0B",
 }
 def color(name): return COLORS.get(name, "#70a5fd")
 
 summary = {"total_commits": total_commits, "stars": stars, "followers": followers,
            "repos": n_repos, "languages": n_langs, "member_since": member_since,
-           "top": [(k, round(v * 100 / total, 1)) for k, v in top]}
+           "top": CURATED_LANGS}
+top = CURATED_LANGS
 print(json.dumps(summary, ensure_ascii=False, indent=2))
 
 BG = "#1a1b27"; TITLE = "#70a5fd"; TEXT = "#a9b1d6"; ICON = "#bf91f3"; VAL = "#38bdae"; BORDER = "#2a2e42"
