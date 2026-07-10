@@ -50,8 +50,9 @@ Construo do banco de dados ao deploy — SaaS multi-tenant, plataforma de hosped
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavoamaral21&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&locale=pt-br&hide_border=true&cache_seconds=86400" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavoamaral21&layout=compact&langs_count=10&theme=tokyonight&locale=pt-br&hide_border=true&cache_seconds=86400" height="150" alt="top languages" />
+  <img src="https://raw.githubusercontent.com/gustavoamaral21/gustavoamaral21/main/assets/stats.svg" alt="estatísticas do GitHub" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/gustavoamaral21/gustavoamaral21/main/assets/top-langs.svg" alt="linguagens mais usadas" />
 </div>
 
 ###
