@@ -17,6 +17,14 @@ Construo do banco de dados ao deploy — SaaS multi-tenant, plataforma de hosped
 
 ###
 
+<h3 align="left">🚀 Projetos em destaque</h3>
+
+- 🔐 &nbsp;**[mtls-service-kit](https://github.com/gustavoamaral21/mtls-service-kit)** — microsserviço com **mutual-TLS** em Go + CA embutida. Autenticação serviço-a-serviço (zero-trust), TLS 1.3, zero dependências.
+- 🚪 &nbsp;**[oidc-logout-hub](https://github.com/gustavoamaral21/oidc-logout-hub)** — orquestrador de **single logout** (hub-and-spoke) para OIDC/SSO, com fan-out assinado (HMAC) e store de revogação.
+- 🚦 &nbsp;**[quota-gate](https://github.com/gustavoamaral21/quota-gate)** — **rate-limit & cota** (token bucket) em Go, backend em memória ou **Redis** (Lua atômico), middleware HTTP e métricas Prometheus.
+
+###
+
 <h3 align="left">🛠️ Stack do dia a dia</h3>
 
 **Linguagens**
