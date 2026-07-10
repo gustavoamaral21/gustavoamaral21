@@ -1,0 +1,38 @@
+name: Atualizar cards do perfil
+
+on:
+  schedule:
+    - cron: "17 6 * * 1" # toda segunda-feira, 06:17 UTC
+  workflow_dispatch: {} # permite rodar manualmente na aba Actions
+
+permissions:
+  contents: write
+
+jobs:
+  update-cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Gerar cards (dados reais)
+        env:
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          ASSETS_DIR: assets
+          PROFILE_USER: gustavoamaral21
+        run: python scripts/gen_cards.py
+
+      - name: Commitar se houve mudança
+        run: |
+          if [ -n "$(git status --porcelain assets)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add assets/stats.svg assets/top-langs.svg
+            git commit -m "chore(profile): atualiza cards automaticamente"
+            git push
+          else
+            echo "Sem mudanças nos cards."
+          fi
