@@ -1,16 +1,19 @@
-<svg width="460" height="192" viewBox="0 0 460 192" xmlns="http://www.w3.org/2000/svg" role="img">
-<rect x="0.5" y="0.5" width="459" height="191" rx="10" fill="#1a1b27" stroke="#2a2e42"/>
+<svg width="470" height="220" viewBox="0 0 470 220" xmlns="http://www.w3.org/2000/svg" role="img">
+<rect x="0.5" y="0.5" width="469" height="219" rx="10" fill="#1a1b27" stroke="#2a2e42"/>
 <text x="25" y="35" font-family="Segoe UI, Ubuntu, sans-serif" font-size="18" font-weight="600" fill="#70a5fd">Estatísticas de Gustavo Amaral</text>
-<text x="25" y="66" font-family="Segoe UI, Ubuntu, sans-serif" font-size="15" fill="#bf91f3">▤</text>
-<text x="52" y="66" font-family="Segoe UI, Ubuntu, sans-serif" font-size="15" fill="#a9b1d6">Repositórios</text>
-<text x="435" y="66" text-anchor="end" font-family="Segoe UI, Ubuntu, sans-serif" font-size="15" font-weight="700" fill="#38bdae">20</text>
-<text x="25" y="94" font-family="Segoe UI, Ubuntu, sans-serif" font-size="15" fill="#bf91f3">★</text>
-<text x="52" y="94" font-family="Segoe UI, Ubuntu, sans-serif" font-size="15" fill="#a9b1d6">Estrelas totais</text>
-<text x="435" y="94" text-anchor="end" font-family="Segoe UI, Ubuntu, sans-serif" font-size="15" font-weight="700" fill="#38bdae">1</text>
-<text x="25" y="122" font-family="Segoe UI, Ubuntu, sans-serif" font-size="15" fill="#bf91f3">♦</text>
-<text x="52" y="122" font-family="Segoe UI, Ubuntu, sans-serif" font-size="15" fill="#a9b1d6">Seguidores</text>
-<text x="435" y="122" text-anchor="end" font-family="Segoe UI, Ubuntu, sans-serif" font-size="15" font-weight="700" fill="#38bdae">5</text>
-<text x="25" y="150" font-family="Segoe UI, Ubuntu, sans-serif" font-size="15" fill="#bf91f3">◷</text>
-<text x="52" y="150" font-family="Segoe UI, Ubuntu, sans-serif" font-size="15" fill="#a9b1d6">Membro desde</text>
-<text x="435" y="150" text-anchor="end" font-family="Segoe UI, Ubuntu, sans-serif" font-size="15" font-weight="700" fill="#38bdae">2021</text>
+<text x="25" y="66" font-family="Segoe UI, Ubuntu, sans-serif" font-size="15" fill="#bf91f3">↑</text>
+<text x="52" y="66" font-family="Segoe UI, Ubuntu, sans-serif" font-size="15" fill="#a9b1d6">Commits totais</text>
+<text x="445" y="66" text-anchor="end" font-family="Segoe UI, Ubuntu, sans-serif" font-size="15" font-weight="700" fill="#38bdae">538</text>
+<text x="25" y="94" font-family="Segoe UI, Ubuntu, sans-serif" font-size="15" fill="#bf91f3">▤</text>
+<text x="52" y="94" font-family="Segoe UI, Ubuntu, sans-serif" font-size="15" fill="#a9b1d6">Repositórios</text>
+<text x="445" y="94" text-anchor="end" font-family="Segoe UI, Ubuntu, sans-serif" font-size="15" font-weight="700" fill="#38bdae">20</text>
+<text x="25" y="122" font-family="Segoe UI, Ubuntu, sans-serif" font-size="15" fill="#bf91f3">⌘</text>
+<text x="52" y="122" font-family="Segoe UI, Ubuntu, sans-serif" font-size="15" fill="#a9b1d6">Linguagens</text>
+<text x="445" y="122" text-anchor="end" font-family="Segoe UI, Ubuntu, sans-serif" font-size="15" font-weight="700" fill="#38bdae">12</text>
+<text x="25" y="150" font-family="Segoe UI, Ubuntu, sans-serif" font-size="15" fill="#bf91f3">♦</text>
+<text x="52" y="150" font-family="Segoe UI, Ubuntu, sans-serif" font-size="15" fill="#a9b1d6">Seguidores</text>
+<text x="445" y="150" text-anchor="end" font-family="Segoe UI, Ubuntu, sans-serif" font-size="15" font-weight="700" fill="#38bdae">5</text>
+<text x="25" y="178" font-family="Segoe UI, Ubuntu, sans-serif" font-size="15" fill="#bf91f3">◷</text>
+<text x="52" y="178" font-family="Segoe UI, Ubuntu, sans-serif" font-size="15" fill="#a9b1d6">Membro desde</text>
+<text x="445" y="178" text-anchor="end" font-family="Segoe UI, Ubuntu, sans-serif" font-size="15" font-weight="700" fill="#38bdae">2021</text>
 </svg>
